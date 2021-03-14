@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alonso",
+      "email": "j.aros.cortes@gmail.com",
+      "telefono": "940753962",
+      "empresa": "BusCheck",
+      "id": 27
+    },
+    {
+      "nombre": "Miguel",
+      "email": "javier_8877@hotmail.com",
+      "telefono": "944439478",
+      "empresa": "Bordados Lili",
+      "id": 28
+    },
+    {
+      "nombre": "Javier",
+      "email": "contacto@contacto.cl",
+      "telefono": "94837645",
+      "empresa": "CRM ",
+      "id": 29
+    }
+  ]
+}
